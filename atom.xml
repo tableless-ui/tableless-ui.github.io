@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tableless-ui.github.io/atom.xml" rel="self"/>
   <link href="http://tableless-ui.github.io/"/>
-  <updated>2014-01-09T17:56:21-05:00</updated>
+  <updated>2014-01-09T17:58:32-05:00</updated>
   <id>http://tableless-ui.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,24 +19,6 @@
     <updated>2014-01-09T17:55:03-05:00</updated>
     <id>http://tableless-ui.github.io/blog/2014/01/09/whatisuiux</id>
     <content type="html"><![CDATA[<p>What is UI / UX? Really? What is it? Nobody knows. I think UI means User Interface and UX means User Experience.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[World]]></title>
-    <link href="http://tableless-ui.github.io/blog/2014/01/09/world/"/>
-    <updated>2014-01-09T17:50:03-05:00</updated>
-    <id>http://tableless-ui.github.io/blog/2014/01/09/world</id>
-    <content type="html"><![CDATA[<p>Lets test this whole thing out. Not sure if it will work at all&hellip;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://tableless-ui.github.io/blog/2014/01/09/hello/"/>
-    <updated>2014-01-09T17:33:46-05:00</updated>
-    <id>http://tableless-ui.github.io/blog/2014/01/09/hello</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
