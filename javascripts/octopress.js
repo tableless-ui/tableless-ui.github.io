@@ -1,9 +1,9 @@
 function getNav() {
-  var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
+  var mainNav = $('ul.main-navigation').before('<fieldset class="mobile-nav">')
   var mobileNav = $('fieldset.mobile-nav').append('<select>');
-  mobileNav.find('select').append('<option value="">Navigate&hellip;</option>');
+  mobileNav.find('select').append('<option value="">Navigate</option>');
   var addOption = function(i, option) {
-    mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
+    mobileNav.find('select').append('<option value="' + this.href + '">' + $(this).text() + '</option>');
   }
   mainNav.find('a').each(addOption);
   $('ul.subscription a').each(addOption);
