@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[TableLess]]></title>
   <link href="http://tableless-ui.github.io/atom.xml" rel="self"/>
   <link href="http://tableless-ui.github.io/"/>
-  <updated>2014-01-09T17:58:32-05:00</updated>
+  <updated>2014-03-06T21:02:24-05:00</updated>
   <id>http://tableless-ui.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Austin Dick and Isaac Hunter]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
