@@ -3,7 +3,7 @@ function getNav() {
   var mobileNav = $('fieldset.mobile-nav').append('<select>');
   mobileNav.find('select').append('<option value="">Navigate</option>');
   var addOption = function(i, option) {
-    mobileNav.find('select').append('<option value="' + this.href + '">' + $(this).text() + '</option>');
+    mobileNav.find('select').append('<option value="' + this.href + '">: ' + $(this).text() + '</option>');
   }
   mainNav.find('a').each(addOption);
   //$('ul.subscription a').each(addOption);
