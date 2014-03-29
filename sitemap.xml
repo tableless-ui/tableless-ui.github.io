@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tableless-ui.github.io/blog/2014/03/07/whatisuiux/</loc>
+        <loc>http://tableless.ca/blog/2014/03/07/whatisuiux/</loc>
         <lastmod>2014-03-29T16:10:35-04:00</lastmod>
     </url>
     <url>
-        <loc>http://tableless-ui.github.io/blog/archives/</loc>
+        <loc>http://tableless.ca/blog/archives/</loc>
         <lastmod>2014-03-29T16:10:35-04:00</lastmod>
     </url>
     <url>
-        <loc>http://tableless-ui.github.io/</loc>
+        <loc>http://tableless.ca/</loc>
         <lastmod>2014-03-29T16:10:35-04:00</lastmod>
     </url>
     <url>
-        <loc>http://tableless-ui.github.io/robots.txt</loc>
+        <loc>http://tableless.ca/robots.txt</loc>
         <lastmod>2014-01-09T01:41:35-05:00</lastmod>
     </url>
 </urlset>
